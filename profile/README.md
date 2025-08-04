@@ -10,6 +10,7 @@ GG Labs é uma empresa de tecnologia especializada no desenvolvimento de softwar
 Trabalhamos lado a lado com nossos clientes para transformar ideias em produtos robustos, combinando tecnologia de ponta com um olhar atento aos detalhes e à usabilidade. Seja para lançar um novo app, desenvolver um jogo com identidade única ou extrair valor dos seus dados com painéis analíticos, a GG Labs entrega soluções completas e escaláveis.
 </p>
 
+# Nossa Equipe
 <div align='center'>
   <img src='https://github.com/GG-Labss/.github/blob/main/profile/assets/img/gg.jpg'>
 </div>
